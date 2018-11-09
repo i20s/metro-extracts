@@ -7095,6 +7095,42 @@
         },
         {
             "type": "Feature",
+            "id": "nantes_france",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1.379,
+                            47.078
+                        ],
+                        [
+                            1.379,
+                            47.368
+                        ],
+                        [
+                            1.734,
+                            47.368
+                        ],
+                        [
+                            1.734,
+                            47.078
+                        ],
+                        [
+                            1.379,
+                            47.078
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Nantes",
+                "region": "western_europe",
+                "country": "France"
+            }
+        },        
+        {
+            "type": "Feature",
             "id": "rotterdam_netherlands",
             "geometry": {
                 "type": "Polygon",
